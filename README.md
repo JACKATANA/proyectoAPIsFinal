@@ -8,7 +8,7 @@ Este repositorio contiene el proyecto final para la asignatura de APIs con Pytho
 Antes de ejecutar el proyecto, asegúrate de tener instalado lo siguiente:
 
 - [Docker](https://www.docker.com/)
-- Python 13.1
+- Python 3.13
 - Virtualenv (si deseas usar un entorno virtual)
 
 ## Configuración del Entorno
