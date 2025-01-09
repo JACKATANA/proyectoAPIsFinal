@@ -37,13 +37,13 @@ Para construir y ejecutar el proyecto, utiliza los siguientes comandos:
 1. Construir la imagen Docker:
 
    ```bash
-   docker build -t proyectoAPI .
+   docker build -t proyecto .
    ```
 
 2. Ejecutar el contenedor Docker:
 
    ```bash
-   docker run -p 8000:8000 proyectoAPI
+   docker run -p 8000:8000 proyecto
    ```
 
 ## Acceso a la Aplicación
